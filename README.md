@@ -1,4 +1,4 @@
-#GIS 5578
+# GIS 5578
 ### Python String Games
 
 This repo contains some exercises you can go through to better your Python skills
